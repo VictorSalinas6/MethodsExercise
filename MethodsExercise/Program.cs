@@ -33,7 +33,7 @@ namespace MethodsExercise
         public static void ShortStory(string name, string color, string mascot, string country, string villain)
         {
             Console.WriteLine($"Hello {name}, this is the story of the next birthday you will have, you\n" +
-                $"can decide whether you can believe it, on the day {mascot} your trusty companion\n" + 
+                $"can decide whether you can believe it or not, on the day {mascot} your trusty companion\n" + 
                 $"will transform in to your worst enemy, {villain}, with a plan on changing the color\n" + 
                 $"of the sky to {color} in {country} to at last conquer the world, be prepared to stop it!\n");
         }
